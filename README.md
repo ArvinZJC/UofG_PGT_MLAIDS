@@ -12,5 +12,5 @@ This repository contains code written for practising the knowledge gained from t
     | :--: | :--: |
     | python | 3.8.8 |
     | matplotlib | 3.3.4 |
-    | numpy | 1.19.2 |
+    | numpy | 1.20.1 |
     | scikit-learn | 0.24.1 |
