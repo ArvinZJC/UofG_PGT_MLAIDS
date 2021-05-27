@@ -6,7 +6,7 @@ This repository contains code written for practising the knowledge gained from t
 
 ## ATTENTION
 
-1. The IPYNB file can be opened and edited in Visual Studio Code (if supported). By 31 March 2021, everything looks good with the code editor (Version: 1.55.0). As an option, you can also use Jupyter Notebook in Anaconda. The primary packages used in the development are listed in the following table.
+1. The IPYNB file can be opened and edited in Visual Studio Code (if supported). By 27 May 2021, everything looks good with the code editor (Version: 1.56.2). As an option, you can also use Jupyter Notebook in Anaconda. The primary packages used in the development are listed in the following table.
 
     | Name | Version |
     | :--: | :--: |
